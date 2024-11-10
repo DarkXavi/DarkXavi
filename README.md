@@ -22,10 +22,12 @@
 
 <h3 align="center"> ⚠️ Contáctame</h3>
 <p align="center">
-<!-- <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>-->
-<a href="https://www.linkedin.com/in/darioguerron/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="darío_guerrón" height="50" width="50" /></a>
-<a href="https://www.facebook.com/dario.guerron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darío.guerrón" height="50" width="50" /></a>
-<a href="https://www.instagram.com/darioxavier_gb/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="darío-guerrón" height="50" width="50" /></a>
+<br>
+<a href="https://www.facebook.com/dario.guerron"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/darioxavier_gb/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/darioguerron/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 <hr>
 
