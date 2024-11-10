@@ -1,35 +1,33 @@
 ![Welcome to my profile](https://github.com/DarkXavi/DarkXavi/blob/main/PortadaLinkedin.png?raw=true)
 
 <h1 align="center">
-Hi, I'm Vishal Maurya!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
+... ¿TE CUENTO ALGO? ... </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
+<hr>
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
 
 ```
-I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+  🌎  Soy Ecuatoriano.
+💻-📐 Ingeniero Matemático y Tecnologo en Análisis de Sistemas.
+  📚  Gran interés por la Docencia y la Ciencia de Datos.
+  📢  Apasionado por la ciencia y la tecnología.
+  🌱  Aprendiendo Python y SQL.
+  🔭  Trabajando en proyectos personales.
+  🚩  Buscando colaborar en poyectos de Docencia o en proyectos de Análisis de Datos.
+  💖  En una relación complicada con las Matemáticas.
+  💬  Te puedo ayudar con tutorías de Matemática y Física Aplicada.
+-------------------------
 ```
-<hr>
 
+<h3 align="center"> ⚠️ Contáctame</h3>
+<p align="center">
+<!-- <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>-->
+<a href="https://www.linkedin.com/in/darioguerron/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="darío_guerrón" height="50" width="50" /></a>
+<a href="https://www.facebook.com/dario.guerron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darío.guerrón" height="50" width="50" /></a>
+<a href="https://www.instagram.com/darioxavier_gb/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="darío-guerrón" height="50" width="50" /></a>
+</p>
+<hr>
 
 ## 🛠️ My Favorite Tools
 
