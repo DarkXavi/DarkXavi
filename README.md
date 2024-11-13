@@ -77,6 +77,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=flat&logo=Mega&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/WolframAlpha-%23ffffff.svg?style=flat&logo=WolframAlpha&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zoom-%23276DC3.svg?style=flat&logo=zoom&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/IDroo-%23D90007.svg?style=flat&logo=IDroo&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Miro-%23D90007.svg?style=flat&logo=miro&logoColor=white"></a>
   
 </p>
 
