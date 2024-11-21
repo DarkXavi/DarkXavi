@@ -21,6 +21,7 @@
 ```
 
 <h3 align="center"> ⚠️ Contáctame</h3>
+<h1 align="center"> “Sumérgete lo suficiente en cualquier cosa y encontrarás las matemáticas.” - Dean Schlicter. </h1>
 <p align="center">
 <br>
 <a href="https://www.facebook.com/dario.guerron"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
@@ -28,12 +29,13 @@
 <a href="https://www.linkedin.com/in/darioguerron/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:darkjav19@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-“Sumérgete lo suficiente en cualquier cosa y encontrarás las matemáticas.” - Dean Schlicter.
 </p>
 <hr>
 
 ## 🛠️ Mis Conocimientos
-"La matemática es la reina de las ciencias y la aritmética es la reina de las matemáticas. Ella a menudo se digna a prestar un servicio a la astronomía y a otras ciencias naturales, pero en todas las relaciones, tiene derecho a la primera fila." – Carl Friedrich Gauss.
+
+<h3 align="center"> "La matemática es la reina de las ciencias y la aritmética es la reina de las matemáticas. Ella a menudo se digna a prestar un servicio a la astronomía y a otras ciencias naturales, pero en todas las relaciones, tiene derecho a la primera fila." – Carl Friedrich Gauss. </h3>
+
 ### 👨‍💻 Lenguajes de Programación.
 
 <p>
