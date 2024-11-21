@@ -14,7 +14,7 @@
   📢  Apasionado por la Ciencia y Tecnología.
   🌱  Aprendiendo Python y SQL.
   🔭  Trabajando en proyectos personales.
-  🚩  Buscando colaborar en poyectos relacionados a la Matemática.
+  🚩  Buscando colaborar en poyectos relacionados con Matemática.
   💖  En una relación complicada con las Matemáticas.
   💬  Te puedo ayudar con tutorías de Matemática y Física Aplicada.
 -------------------------
