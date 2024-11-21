@@ -20,8 +20,8 @@
 -------------------------
 ```
 
-<h3 align="center"> ⚠️ Contáctame</h3>
-<h1 align="center"> “Sumérgete lo suficiente en cualquier cosa y encontrarás las matemáticas.” - Dean Schlicter. </h1>
+<h1 align="center"> ⚠️ Contáctame</h1>
+<h3 align="center"> “Sumérgete lo suficiente en cualquier cosa y encontrarás las matemáticas.” - Dean Schlicter. </h3>
 <p align="center">
 <br>
 <a href="https://www.facebook.com/dario.guerron"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
