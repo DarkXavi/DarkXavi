@@ -9,12 +9,12 @@
 ```
 -------------------------
   🌎  Soy Ecuatoriano.
-💻-📐 Ingeniero Matemático y Tecnologo en Análisis de Sistemas.
-  📚  Gran interés por la Docencia y la Ciencia de Datos.
-  📢  Apasionado por la ciencia y la tecnología.
+💻-📐 Ingeniero Matemático y Tecnólogo en Análisis de Sistemas.
+  📚  "Las Matemáticas son el lenguaje con el que Dios ha escrito el Universo." - Galileo Galilei.
+  📢  Apasionado por la Ciencia y Tecnología.
   🌱  Aprendiendo Python y SQL.
   🔭  Trabajando en proyectos personales.
-  🚩  Buscando colaborar en poyectos de Docencia o en proyectos de Análisis de Datos.
+  🚩  Buscando colaborar en poyectos relacionados a la Matemática.
   💖  En una relación complicada con las Matemáticas.
   💬  Te puedo ayudar con tutorías de Matemática y Física Aplicada.
 -------------------------
@@ -28,10 +28,12 @@
 <a href="https://www.linkedin.com/in/darioguerron/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:darkjav19@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+“Sumérgete lo suficiente en cualquier cosa y encontrarás las matemáticas.” - Dean Schlicter.
 </p>
 <hr>
 
 ## 🛠️ Mis Conocimientos
+"La matemática es la reina de las ciencias y la aritmética es la reina de las matemáticas. Ella a menudo se digna a prestar un servicio a la astronomía y a otras ciencias naturales, pero en todas las relaciones, tiene derecho a la primera fila." – Carl Friedrich Gauss.
 ### 👨‍💻 Lenguajes de Programación.
 
 <p>
