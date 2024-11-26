@@ -93,7 +93,7 @@
 
 <table style="border: none">
   <tr>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" align="center">
 
 ## ¡Trabajemos juntos en tu proyecto!
 
