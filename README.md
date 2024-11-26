@@ -87,6 +87,9 @@
   
 </p>
 
+<h3 align="center">
+“Creo que es muy importante tener un ciclo de retroalimentación, en el que pienses constantemente en lo que has hecho y en cómo podrías hacerlo mejor”. – Elon Musk
+</h3>
 
 <table style="border: none">
   <tr>
@@ -97,14 +100,6 @@
 Si tienes alguna pregunta sobre tus tareas de Matemática o Física,
 O si necesitas ayuda con tu proyecto relacionado a las Matematicas, no dudes en contactarme por correo electrónico.
 
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-“Creo que es muy importante tener un ciclo de retroalimentación, en el que pienses constantemente en lo que has hecho y en cómo podrías hacerlo mejor”. – Elon Musk
-
-  </td>
   </tr>
 </table>
 
