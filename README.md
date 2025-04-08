@@ -38,7 +38,7 @@
 
 ### 👨‍💻 Lenguajes de Programación.
 
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
   <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/MATLAB-%2344A833.svg?style=flat&logo=MATLAB&logoColor=white"></a>
@@ -47,7 +47,7 @@
 
 ### 🧰 Librerias.
 
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -58,14 +58,14 @@
 
 ### 🗄️ Databases.
 
-<p>
+<p align="center">
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat&logo=mysql&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software.
 
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=flat&logo=latex&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" /></a>
