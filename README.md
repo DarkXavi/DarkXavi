@@ -98,7 +98,7 @@
 ## ¡Trabajemos juntos en tu proyecto!
 
 Si tienes alguna pregunta sobre tus tareas de Matemática o Física,
-O si necesitas ayuda con tu proyecto relacionado a las Matematicas, no dudes en contactarme por correo electrónico.
+O si necesitas ayuda con tu proyecto relacionado con Matematicas, no dudes en contactarme por correo electrónico.
 
   </tr>
 </table>
